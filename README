@@ -1,0 +1,4 @@
+First Install libssl
+- sudo dpkg -i libssl1.0.2_1.0.2u-1_deb9u1_amd64.deb
+Second Install hostapd
+- sudo dpkg -i hostapd-wpe_2.9+git20190816-0kali2_amd64.deb
